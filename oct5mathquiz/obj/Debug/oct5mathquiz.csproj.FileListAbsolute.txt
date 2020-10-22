@@ -1,0 +1,10 @@
+C:\Users\saian\source\repos\oct5mathquiz\oct5mathquiz\bin\Debug\oct5mathquiz.exe.config
+C:\Users\saian\source\repos\oct5mathquiz\oct5mathquiz\bin\Debug\oct5mathquiz.exe
+C:\Users\saian\source\repos\oct5mathquiz\oct5mathquiz\bin\Debug\oct5mathquiz.pdb
+C:\Users\saian\source\repos\oct5mathquiz\oct5mathquiz\obj\Debug\oct5mathquiz.csprojAssemblyReference.cache
+C:\Users\saian\source\repos\oct5mathquiz\oct5mathquiz\obj\Debug\oct5mathquiz.Form1.resources
+C:\Users\saian\source\repos\oct5mathquiz\oct5mathquiz\obj\Debug\oct5mathquiz.Properties.Resources.resources
+C:\Users\saian\source\repos\oct5mathquiz\oct5mathquiz\obj\Debug\oct5mathquiz.csproj.GenerateResource.cache
+C:\Users\saian\source\repos\oct5mathquiz\oct5mathquiz\obj\Debug\oct5mathquiz.csproj.CoreCompileInputs.cache
+C:\Users\saian\source\repos\oct5mathquiz\oct5mathquiz\obj\Debug\oct5mathquiz.exe
+C:\Users\saian\source\repos\oct5mathquiz\oct5mathquiz\obj\Debug\oct5mathquiz.pdb
